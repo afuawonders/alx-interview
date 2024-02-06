@@ -1,4 +1,8 @@
-def pascal_triangle(n):
+#!/usr/bin/python3
+"""
+Pascal Trangle
+
+"""def pascal_triangle(n):
     """
     Generate Pascal's triangle of size n.
     """
